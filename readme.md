@@ -1,4 +1,5 @@
-#L4D2-RubbishTools
+# L4D2-RubbishTools
+
 我自己写的垃圾工具集，代码屎山一堆问题，不过它能跑
 
 1. ModAutoRename
@@ -8,3 +9,6 @@
 2. MiraiQueryNativePlugin
    用mirai的http native插件写的一个查服插件，效率一坨    
    另，主文件为`httpapi.py`
+
+3. AutoChangeSpray
+   自动生成在换图后自动切换喷漆的cfg
